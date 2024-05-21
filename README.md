@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ayush_ruds" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="front.end_" height="50" width="60" /></a>
-<a href="https://github.com/ayushrudani/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" alt="ayushrudani" height="50" width="60" /></a>
+<a href="https://ayushrudani-portfolio.vercel.app/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" alt="ayushrudani" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/ayush_ruds" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="50" width="60" /></a>
 </p>
 
