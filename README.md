@@ -2,7 +2,7 @@
 <h1 align="center">Hey,I'm Ayush Rudani</h1>
 <h3 align="left">Indian student and Front End Developer with experience in HTML, CSS, and mobile app development. Passionate about creating stunning and user-friendly websites, I've completed several projects that showcase my skills and creativity. Always eager to learn and grow, I'm excited for what the future holds in the world of coding</h3>
 <img align="right" width=300 src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/200w.webp?cid=ecf05e470lpqb53cmmnbhdnbdme8hqrekfha40usgquma1qa&ep=v1_stickers_search&rid=200w.webp&ct=s"/>
-<p>- 🔭 My portfolio <a href="https://ayushrudani.github.io/" target="blank">view</a><br></p>
+<p>- 🔭 My portfolio <a href="https://ayushrudani-portfolio.vercel.app/" target="blank">view</a><br></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ayush_ruds" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="front.end_" height="50" width="60" /></a>
